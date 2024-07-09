@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    text-align: center;
+    padding: 40px;
+}
+
+.section{
+    width: 25%;
+    margin-left: 550px;
+    margin-top: 50px;
+    background-color: aqua;
+    padding: 10px;
+    border: 2px solid aqua;
+}
+
+.col-9,.col-3{
+    background-color: white;
+    border: 3px solid aqua;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.col-3:hover{
+    background-color: rgb(75, 187, 248);
+}
+
+.row{
+    text-align: center;
+}
+
+.col-9 p{
+    text-align: left;
+   color: rgb(150, 147, 147);
+    
+}
+
+.row h1{
+    background-color: aqua;
+    color: white;
+}
+
+#cid{
+    background-color: red;
+}
+
+
+
